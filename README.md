@@ -93,8 +93,14 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [Other Awesome Lists](#other-awesome-lists)
 
-## API
+## Algorithms and Data structures
 
+* [Algorithmia](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
+* [C# Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
+
+## API
+* [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for [Telegram Bot API](https://core.telegram.org/bots/api)
+* [TLSharp](https://github.com/sochix/TLSharp) - It's a perfect fit for any developer who would like to send data directly to Telegram users or write own custom Telegram client.
 * [NancyFx](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 * [ASP.NET WebAPI](http://www.asp.net/web-api) - Framework that makes it easy to build HTTP services that reach a broad range of clients, including browsers and mobile devices
 * [Breeze](http://breeze.github.io/doc-net/) - Api framework enabling rich data access by using the OData 3 protocol. Client libraries available for Javascript and C#.
@@ -102,6 +108,8 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 * [Nelibur](https://github.com/Nelibur/Nelibur) - Nelibur is message based web service framework on the pure WCF. Nelibur simplifies creating high-performance and message based web services and you certainly have all the power of the WCF.
 * [WebAPI Contrib](https://github.com/WebApiContrib/WebAPIContrib) - Collection of open source projects to help improve your work with ASP.NET Web API
+* [Xamarin.Essentials](https://docs.microsoft.com/en-us/xamarin/essentials/) - Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications.
+* [Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 
 ## Application Frameworks
 
